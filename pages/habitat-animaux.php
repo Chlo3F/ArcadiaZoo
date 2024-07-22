@@ -9,14 +9,19 @@ include('navbar.php');
       <h1>Habitats et Animaux</h1>
     </div>
     
-    <p> Suspendisse erat mauris, nonummy eget, pretium eget, consequat vel, justo.
-      Pellentesque consectetuer erat sed lacus. Nullam egestas nulla ac dui.
-      Donec cursus rhoncus ipsum. Nunc et sem eu magna egestas malesuada.
-      Vivamus dictum massa at dolor. Morbi est nulla, faucibus ac, posuere in, interdum ut, sapien.
-      Suspendisse erat mauris, nonummy eget, pretium eget, consequat vel, justo.
-      Pellentesque consectetuer erat sed lacus. Nullam egestas nulla ac dui.
-      Donec cursus rhoncus ipsum. Nunc et sem eu magna egestas malesuada.
-      Vivamus dictum massa at dolor. Morbi est nulla, faucibus ac, posuere in, interdum ut, sapien.
+    <p> 
+    Bienvenue au Zoo Arcadia, un havre de biodiversité situé près de la mythique forêt de Brocéliande 
+    en Bretagne, France. Fondé en 1960, Arcadia s'est forgé une réputation d'excellence 
+    grâce à son engagement profond pour le bien-être animal et ses initiatives écologiques avant-gardistes.
+    </p>
+    <h5>Un Refuge pour la Biodiversité</h5>
+    <p>
+    Arcadia abrite une incroyable diversité d’animaux répartis dans des habitats soigneusement 
+    reconstitués pour refléter leurs environnements naturels : des vastes étendues de la savane 
+    africaine, où les lions et les girafes se déplacent majestueusement, aux forêts luxuriantes 
+    de l’Amazonie, où les singes agiles évoluent parmi les lianes et les branches. 
+    Chaque zone du zoo est conçue pour offrir aux animaux des conditions optimales 
+    qui encouragent leurs comportements naturels, assurant leur santé et leur bien-être.
     </p>
 
     <h2> Carte du Zoo</h2>

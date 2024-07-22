@@ -1,26 +1,23 @@
-<?php include('header.php'); 
+<?php 
+include('header.php');
 include('navbar.php');
-?>
+ ?>
       <section class="title-habitat">
 
         <img class="habitat-hero" src="../asset/lion2.jpg" alt="famille de lions">
         <h1>La savane</h1>
 
-        <p>Curabitur nunc magna, posuere eget, venenatis  eu, vehicula ac, velit.
-        Aenean ornare, massa a accumsan pulvinar,  quam lorem laoreet purus, eu  sodales magna
-         risus molestie lorem.Nunc erat velit, hendrerit quis,  malesuada ut, aliquam vitae, wisi.  Sed posuere. 
-         Curabitur nunc magna, posuere eget, venenatis  eu, vehicula ac, velit.
-         Aenean ornare, massa a accumsan pulvinar,  quam lorem laoreet purus, eu  sodales magna
-          risus molestie lorem.Nunc erat velit, hendrerit quis,  malesuada ut, aliquam vitae, wisi.  Sed posuere. 
-         </p>
+        <p>
+        Bienvenue dans l’habitat de la savane, où règnent les majestueux lions. Ce vaste espace recrée 
+        les plaines infinies et dorées de l'Afrique, offrant un environnement où les lions peuvent s'épanouir pleinement.
+        L’habitat de la savane est conçu pour imiter les vastes étendues africaines, avec de grands espaces ouverts, 
+        des arbres dispersés et des rochers pour se prélasser. Nos lions, véritables rois de la savane, 
+        profitent d'un environnement riche en stimulations naturelles. Les visiteurs peuvent les observer se déplacer 
+        avec majesté, jouer ou se reposer sous l’ombre bienfaisante des acacias. Ce cadre exceptionnel 
+        permet aux lions de montrer leur comportement naturel, offrant ainsi une expérience éducative et fascinante.
+        </p>
 
-        <ul>
-            <li> Lion 1</li>
-            <li> Lion 2</li>
-            <li> Lion 3</li>
-            <li> Lion 4</li>
-            <li> Lion 5</li>
-        </ul>
+        
 
       </section>
       <section class="container-animal">
@@ -30,7 +27,7 @@ include('navbar.php');
                 <li>Nom: Enzo</li>
                 <li>Race: Lion du Sénégal</li>
                 <li>Habitat: La savane</li>
-                <li>Avis du Vétérinaire</li>
+                <li>Avis du Vétérinaire: Animal en pleine forme</li>
             </ul>
         </div>
 
@@ -40,7 +37,7 @@ include('navbar.php');
                 <li>Nom: Nina</li>
                 <li>Race: Lion du Sénégal</li>
                 <li>Habitat: La savane</li>
-                <li>Avis du Vétérinaire</li>
+                <li>Avis du Vétérinaire: Animal en pleine forme</li>
             </ul>
         </div>
 

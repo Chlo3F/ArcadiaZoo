@@ -1,26 +1,21 @@
-<?php include('header.php'); 
+<?php 
+include('header.php');
 include('navbar.php');
-?>
+ ?>
       <section class="title-habitat">
 
         <img class="habitat-hero" src="../asset/loup4.jpg" alt="groupe de loups">
         <h1>L'Europe Centrale</h1>
 
-        <p>Curabitur nunc magna, posuere eget, venenatis  eu, vehicula ac, velit.
-        Aenean ornare, massa a accumsan pulvinar,  quam lorem laoreet purus, eu  sodales magna
-         risus molestie lorem.Nunc erat velit, hendrerit quis,  malesuada ut, aliquam vitae, wisi.  Sed posuere. 
-         Curabitur nunc magna, posuere eget, venenatis  eu, vehicula ac, velit.
-         Aenean ornare, massa a accumsan pulvinar,  quam lorem laoreet purus, eu  sodales magna
-          risus molestie lorem.Nunc erat velit, hendrerit quis,  malesuada ut, aliquam vitae, wisi.  Sed posuere. 
-         </p>
-
-        <ul>
-            <li> Loup 1</li>
-            <li> Loup 2</li>
-            <li> Loup 3</li>
-            <li> Loup 4</li>
-            <li> Loup 5</li>
-        </ul>
+        <p>
+        Explorez l'habitat des loups d’Europe centrale, où ces fascinants 
+        carnivores vivent dans un cadre qui rappelle les forêts profondes et les montagnes de leur environnement naturel.
+        Notre habitat pour les loups d’Europe centrale recrée les forêts denses et les prairies de cette région, 
+        offrant aux loups un espace où ils peuvent se déplacer, chasser et socialiser comme dans la nature. 
+        Les visiteurs peuvent observer la hiérarchie de la meute, entendre leurs hurlements et comprendre leur rôle essentiel
+        dans l’écosystème. Ce cadre authentique permet aux loups de montrer leur comportement naturel, 
+        tout en offrant une expérience éducative et immersive aux visiteurs du zoo.
+        </p>
 
       </section>
       <section class="container-animal">
@@ -30,7 +25,7 @@ include('navbar.php');
                 <li>Nom: Maya </li>
                 <li>Race: Canis lupus</li>
                 <li>Habitat: Europe Centrale</li>
-                <li>Avis du Vétérinaire</li>
+                <li>Avis du Vétérinaire: Animal en pleine forme</li>
             </ul>
         </div>
 
@@ -40,7 +35,7 @@ include('navbar.php');
                 <li>Nom: Anao</li>
                 <li>Race: Canis lupus</li>
                 <li>Habitat: Europe centrale</li>
-                <li>Avis du Vétérinaire</li>
+                <li>Avis du Vétérinaire: Animal en pleine forme</li>
             </ul>
         </div>
 

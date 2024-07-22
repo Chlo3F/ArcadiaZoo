@@ -1,27 +1,24 @@
-<?php include('header.php'); 
+<?php 
+include('header.php');
 include('navbar.php');
-?>
+ ?>
 
       <section class="title-habitat">
 
         <img class="habitat-hero" src="../asset/kangourou2.jpg" alt="famille de kangourous">
         <h1>L'Australie</h1>
 
-        <p>Curabitur nunc magna, posuere eget, venenatis  eu, vehicula ac, velit.
-        Aenean ornare, massa a accumsan pulvinar,  quam lorem laoreet purus, eu  sodales magna
-         risus molestie lorem.Nunc erat velit, hendrerit quis,  malesuada ut, aliquam vitae, wisi.  Sed posuere. 
-         Curabitur nunc magna, posuere eget, venenatis  eu, vehicula ac, velit.
-         Aenean ornare, massa a accumsan pulvinar,  quam lorem laoreet purus, eu  sodales magna
-          risus molestie lorem.Nunc erat velit, hendrerit quis,  malesuada ut, aliquam vitae, wisi.  Sed posuere. 
+        <p>
+        Bienvenue en Australie, le pays des kangourous. Explorez cet habitat unique 
+        et découvrez ces incroyables marsupiaux dans un cadre qui recrée les paysages australiens.
+        L’habitat australien est conçu pour refléter les vastes étendues et les caractéristiques 
+        uniques de l’Outback. Nos kangourous disposent d’un terrain spacieux avec des zones herbeuses, 
+        des buissons et des arbres indigènes. Les visiteurs peuvent observer les kangourous sauter 
+        avec aisance, se reposer à l’ombre ou interagir avec leur groupe familial. 
+        Cet environnement offre un aperçu captivant de la vie des kangourous dans leur habitat naturel, 
+        permettant une immersion totale dans la biodiversité australienne.
          </p>
 
-        <ul>
-            <li> Kangourou 1</li>
-            <li> Kangourou 2</li>
-            <li> Kangourou 3</li>
-            <li> Kangourou 4</li>
-            <li> Kangourou 5</li>
-        </ul>
 
       </section>
       <section class="container-animal">
@@ -31,7 +28,7 @@ include('navbar.php');
                 <li>Nom: Punch</li>
                 <li>Race: Kangourou antilope</li>
                 <li>Habitat: Australie</li>
-                <li>Avis du Vétérinaire</li>
+                <li>Avis du Vétérinaire: Animal en pleine forme</li>
             </ul>
         </div>
 
@@ -41,7 +38,7 @@ include('navbar.php');
                 <li>Nom: Uppercut</li>
                 <li>Race: Kangouroux gris</li>
                 <li>Habitat: L'Australie</li>
-                <li>Avis du Vétérinaire</li>
+                <li>Avis du Vétérinaire: Animal en pleine forme</li>
             </ul>
         </div>
 
