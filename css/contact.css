@@ -1,0 +1,88 @@
+/*PAGE CONTACT*/
+.container-co {
+    background-color: var(--background-color-light);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.contact-header {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    display: flex;
+    justify-content: center;
+    
+}
+.title-form {
+    margin: 1em;  
+}
+
+.title-form h1 {
+    color:#000;
+}
+.container-connexion {
+    background-color: #dee9e8;
+    padding:1.5em;
+    height:25em;
+    border-radius:5%;
+    
+}
+
+.container-form {
+    background-color: #dee9e8;
+    padding:1.5em;
+    margin-bottom: 2.5em;
+    border-radius:5%;
+    
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-select,
+.form-control {
+    width: 30em;
+    border-radius: 8px;
+    margin-top: 0.5em;
+    margin-bottom: 1.5em;
+    border: none;
+   
+}
+select,
+input {
+    height: 2.5em;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+
+/*
+.form-select:focus-visible,
+.form-control:focus-visible
+ {
+    outline: 3px solid #F4A261;
+}
+*/
+.button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.button-orange {
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+
+    /*
+.button-orange:hover{
+    border: 3px solid #F4A261;
+}
+*/
+@media screen and (max-width:450px){
+    .form-select,
+    .form-control {
+        width:20em;
+    }
+}
+ /* PAGE CONNEXION */
+ 
