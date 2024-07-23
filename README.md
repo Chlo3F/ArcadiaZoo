@@ -6,7 +6,8 @@
 
  >>>> Prérequis : avoir Xampp pour un déployement en local. (pour Windows)
 
- 1.Télécharger le fichier zip du projet.
+ 1.Télécharger le fichier zip du projet: 
+ Sur la page principale du repository, cliquez sur le bouton vert "Code" et sélectionner "Download Zip".
  Coller le fichier dans C:xampp/htdocs
 
 2. Ouvrir Xampp Control Panel et lancer Apashe + MySQL
